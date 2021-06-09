@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /*
  *  UCF COP3330 Summer 2021 Assignment 1 Solution
- *  Copyright 2021 first_name last_name
+ *  Copyright 2021 Ann Binus
 
 * Program 15 - Legal Driving Age
 You can test for equality, but you may need to test to see how a number compares to a known value and display a message if the number is too low or too high.
